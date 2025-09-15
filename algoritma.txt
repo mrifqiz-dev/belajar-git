@@ -1,0 +1,32 @@
+Bahasa pemrograman Python
+Python adalah bahasa pemrograman tingkat tinggi yang mudah dipelajari dan populer untuk berbagai bidang (data science, web, AI, dll).
+
+Kelebihan: 
+-Sintaks mudah dipahami (mirip bahasa manusia).
+-Perpustakaan (library) sangat banyak.
+-Cocok untuk pemula hingga profesional.
+-Mendukung berbagai paradigma (OOP, fungsional, scripting).
+
+Kekurangan:
+-Lebih lambat dibanding bahasa compiled (C, C++).
+-Tidak cocok untuk aplikasi real-time yang butuh kecepatan tinggi.
+-Manajemen memori otomatis, jadi kurang fleksibel dibanding C/C++.
+
+Algoritma (step-by-step):
+-Siapkan air 500ml.
+-Panaskan hingga mendidih.
+-Masukkan mie ke dalam air mendidih.
+
+Jika mie kuah:
+-Masukkan bumbu ke mangkuk.
+-Tuang mie + air ke mangkuk.
+-Aduk hingga rata.
+-Jika mie goreng:
+-Masak mie 3 menit, tiriskan.
+-Campur mie dengan bumbu.
+-Aduk hingga rata.
+-Sajikan mie instan.
+
+
+kesimpulan dalam pembuatan tugas:
+search and use python lang -> Algoritma -> flowchart -> coding -> pseudo -> PPT

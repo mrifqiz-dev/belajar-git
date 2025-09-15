@@ -1,0 +1,12 @@
+Kesimpulan Matkul Matematika distrik
+-Konjungsi jika benar semua maka hasilnya benar
+-Disjungsi Jika salah semua maka hasilnya salah 
+-XOR jika p dan q nya tidak sama maka hasilnya benar tetapi jika P dan Q nya sama maka hasilnya salah
+-Implikasi jika P benar dan Q salah maka hasilnya salah
+-Biimplikasi seperti Rumusnya + -, contoh:
+positif + positif = positif
+negative + negative = positif
+
+dan seterusnya (khusus biimplikasi)
+
+-Tabel kebenaran itu semacam gabungan dari keseluruhan materi
